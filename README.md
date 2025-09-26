@@ -1,2 +1,3 @@
 # Useful_Instructions
-Useful Instructions that I don't want to lose
+
+Инструкции по подключению устройств, библиотек, настройке jetson, которые я могу забыть, но не хочу потерять
