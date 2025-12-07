@@ -23,6 +23,12 @@
 ./isaaclab.sh -p scripts/reinforcement_learning/rl_games/train.py --task Isaac-Tesolo-Delto-Direct-v0 --num_envs 1024 --headless --wandb-project-name <name> --wandb-entity <a?> --wandb-name UR10-Tessolo-v0 --track
 ```
 
+### Запуск TensorBoard
+
+```bash
+./isaaclab.sh -p -m tensorboard.main --logdir=logs
+```
+
 Флаги:
 
 - `--agent hand_grasp_rlg.yaml`
