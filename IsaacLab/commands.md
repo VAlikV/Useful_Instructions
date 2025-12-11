@@ -32,7 +32,7 @@
 Флаги:
 
 - `--agent hand_grasp_rlg.yaml`
-
+- `--checkpoint /ABS/PATH/TO/nn/last.pth`
 
 ### Запуск теста обученного агента
 
