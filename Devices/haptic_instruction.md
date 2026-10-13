@@ -1,6 +1,6 @@
 ## Установка драйверов и примеров для Haptic
 
-### Скачать с github-репозитория https://github.com/lexand59/3ds_touch_openhaptics установочные скрипты:
+### Скачать с github-репозитория https://github.com/lexand59/3ds_touch_openhaptics или взять из папки `haptic_install_scripts` установочные скрипты:
 
 - install-3ds-openhaptics-3.4.sh
 
